@@ -1,0 +1,44 @@
+#footer {
+    width: 100%;
+    height: 180px;
+    color: rgb(252, 228, 192);
+    clear: left;
+    line-height: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#footer .tr1 {
+    width: 25%;
+    height: 100%;
+    float: left;
+    text-align: justify;
+    margin-left: 100px;
+}
+
+#footer .ph1 {
+    width: 25%;
+    height: 100%;
+    float: left;
+    text-align: justify;
+}
+
+#footer .ph1 .H5 {
+    margin-left: 20px;
+}
+
+#footer .ph2 {
+    width: 35%;
+    height: 100%;
+    float: right;
+    margin-left: -200px;
+    border: 1px solid #ccc;
+    border: none;
+    text-align: justify;
+}
+#footer .ph1 a:hover {
+    color: white;
+}
+#footer .ph1 a {
+    color: rgb(252, 228, 192);
+}
